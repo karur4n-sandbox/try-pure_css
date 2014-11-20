@@ -1,3 +1,3 @@
 # try Pure
 
-sandbox for (Pure)[http://purecss.io/]
+sandbox for [Pure](http://purecss.io/)
